@@ -16,3 +16,6 @@ NMR related programs for PANI
 
 ## fiscomp
 A collection of codes for 'typical' case use problems in Computational Physics.
+
+## decinvert
+Just a proof of concept: Invert a matrix by the method of decimation.

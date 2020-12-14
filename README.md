@@ -19,3 +19,7 @@ A collection of codes for 'typical' case use problems in Computational Physics.
 
 ## decinvert
 Just a proof of concept: Invert a matrix by the method of decimation.
+
+## DecCAFin
+Proof of Concept: Decoherence in electronic transport using "finite" decoherent leads.
+

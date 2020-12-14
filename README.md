@@ -7,3 +7,6 @@ transdec.sh is a bash facility program to recompile and send desktop notificatio
 
 ## ICRDM
 Grupo de programas y scripts para calcular las propiedades electricas de cadenas tight-binding.	
+
+## fiscomp
+A collection of codes for 'typical' case use problems in Computational Physics.
